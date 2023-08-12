@@ -9,3 +9,5 @@ AUTHOR: VIJAYANANTH
 3.LAST SCEEN CODE
 
 4.ATTACHMENT ( audio,video,image ) code
+
+5.Hiding the last seen
